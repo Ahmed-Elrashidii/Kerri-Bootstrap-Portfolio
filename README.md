@@ -5,9 +5,9 @@ Welcome to the template portfolio website of Kerri Deo! This website showcases m
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
+- [Sections](#sections)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Sections](#sections)
 - [Contact](#contact)
 
 ## About
@@ -19,6 +19,16 @@ This portfolio is designed to present my expertise in web design, graphic design
 - **Interactive Animations:** Hover and scroll animations enhance user experience.
 - **Dynamic Typing Effect:** A typing animation for attention-grabbing text in the header.
 - **Contact Form:** Allows users to easily reach out for collaboration.
+
+## Sections
+
+- **Home**: Introduction and a highlight of the portfolio's theme.
+- **About**: Details about my skills, experience, and design philosophy.
+- **Services**: Overview of services offered (e.g., web design, graphic design).
+- **Clients**: Testimonials and feedback from past clients.
+- **Portfolio**: Gallery of selected works and projects.
+- **Blog**: Space for personal insights, design trends, or project updates.
+- **Contact**: A contact form for inquiries and a footer with social media links.
 
 ## Technologies Used
 - **HTML5**: For structured content and accessibility.
@@ -33,16 +43,6 @@ To get started with this project, follow these steps:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Ahmed-Elrashidii/KerriDeo-Portfolio.git
-
-## Sections
-
-- **Home**: Introduction and a highlight of the portfolio's theme.
-- **About**: Details about my skills, experience, and design philosophy.
-- **Services**: Overview of services offered (e.g., web design, graphic design).
-- **Clients**: Testimonials and feedback from past clients.
-- **Portfolio**: Gallery of selected works and projects.
-- **Blog**: Space for personal insights, design trends, or project updates.
-- **Contact**: A contact form for inquiries and a footer with social media links.
 
 ## Contact
 
