@@ -48,8 +48,8 @@ To get started with this project, follow these steps:
 
 For any questions or collaboration requests, feel free to reach out!
 
-- **Email**: [ahmedmostapha765@gmail.com](mailto:ahmedmostapha765@gmail.com)
-- **LinkedIn**: [linkedin.com/in/ahmed-elrashidii](www.linkedin.com/in/ahmed-elrashidii)
-- **GitHub**: [github.com/Ahmed-Elrashidii](https://github.com/Ahmed-Elrashidii)
+ - [Email](mailto:ahmedmostapha765@gmail.com)
+ - [GitHub](https://github.com/Ahmed-Elrashidii)
+ - [LinkedIn](https://www.linkedin.com/in/ahmed-elrashidii)
 
 
